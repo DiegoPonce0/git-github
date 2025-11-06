@@ -2,8 +2,6 @@
 
 ¿Estás haciendo tu curso de Git y Github en Platzi? 
 
-Cambio 1
-
 ¡Crea por medio de un Pull Request una actualización a este documento!
 
 Actualiza la información de este documento con un formato como el siguiente
